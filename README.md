@@ -29,7 +29,7 @@ reference for SQL commands.
 
 ## Additional Resources (optional)
 
-- [Head First Labs SQL Hands On](http://www.headfirstlabs.com/sql_hands_on/)
+- [Simple SQL Queries Practice](https://pgexercises.com/questions/basic/)
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
 related to [forking,
